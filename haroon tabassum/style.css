@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: aliceblue;
+    height: 100vh;
+
+}
+
+.row{
+    width: 1140px;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+
+
+.my-pic{
+    height: 300px;
+    width: auto;
+    border-radius: 50%;
+    margin: 200px 0 0 200px;
+    /* border-color: darkmagenta; */
+    
+}
+
+#header-h1{
+    text-align: center;
+    font-size: 70px;
+    margin: -330px 0 40px 206px;
+}
+
+#header-content{
+    width: 40%;
+    margin-left:515px;
+}
+
+section{
+    height: 100vh;
+}
+
+.row h1{
+padding: 30px 0 30px 0;
+font-size: 35px;
+
+}
+
+.about-info{
+    
+    font-size: 22px;
+    line-height: 25px;
+}
+.sub-head{
+    padding: 20px 0px;
+}
+
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
